@@ -10,18 +10,20 @@
  ```
  - Once the repo was cloned, you will need to install all the required libraries by running:
  ```bash
-     pip install -f requirements.txt
+     pip install -r requirements.txt
  ```
  - Finally you have to open the file with `jupyter-notebooks` or `google-collaboratory` to run it
 
 ## Main structure
 - Into this repo you will find the next structure
 
+```
 ├── credit-card-offer
 │   ├── README.txt
 │   ├── creditcardmarketing.csv
 │   ├── credit_card_offer_classification.ipynb
 │   ├── requirements.tx
+```
 
 * README: File to add docs to the repo
 * creditcarmarketing: Dataset used for the analysis
