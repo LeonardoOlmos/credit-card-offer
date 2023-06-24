@@ -3,6 +3,9 @@
 ## Description
 - Model that is used to classified when a customer that has a credit card with us take or reject an offer. 
 
+## Rollout plan
+- Into this [trello](https://trello.com/b/xQLwXKqp/credit-risk) you can find the workflow that was followed to reach an MVP.
+
 ## Instructions
  - In order to run the model into your local environment, you will need to clone the repo 
  ```bash
