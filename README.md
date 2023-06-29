@@ -24,11 +24,15 @@
 ├── credit-card-offer
 │   ├── README.txt
 │   ├── creditcardmarketing.csv
+│   ├── creditcardmarketing_db.csv
 │   ├── credit_card_offer_classification.ipynb
+│   ├── credit_marketing.sql
 │   ├── requirements.tx
 ```
 
 * README: File to add docs to the repo
 * creditcarmarketing: Dataset used for the analysis
+* creditcarmarketing_db: File used as data source for my database on MySQL
 * credit_card_offer_classification: Notebook with the base code
 * requirements: File with libraries required
+* credit_marketing.sql: Queries required on SQL excercises
