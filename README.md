@@ -6,6 +6,9 @@
 ## Rollout plan
 - Into this [trello](https://trello.com/b/xQLwXKqp/credit-risk) you can find the workflow that was followed to reach an MVP.
 
+## Tableau dashboard
+- I've decided to use [tableau](https://public.tableau.com/views/CreditOfferAccepted/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link) as complement to have a visual element to explore the data.
+
 ## Instructions
  - In order to run the model into your local environment, you will need to clone the repo 
  ```bash
